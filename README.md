@@ -1,4 +1,4 @@
-# Oracle-1Z0-1072                                  <img src="C:/Users/KAUSTAV/Documents/GitHub/1Z0-1072/images/logo2.JPG" alt="logo2.JPG" style="zoom:50%;" />
+# Oracle-1Z0-1072                      <p>       </p>              <img src="/images/logo2.JPG" alt="logo2.JPG" style="zoom:50%;" />
 
 ## Comprehensive cheat sheet to pass Oracle 1Z0-1072 Exam
 
