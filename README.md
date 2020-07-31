@@ -117,6 +117,8 @@ Add users in group, define policy to provide group access to the compartment
 #### Migrate DB to OCI:
 - On-premises database version and quantity of data, including indexes.
 - On-premises host operating system platform and network bandwidth
+- Snapping or cloning storage form on-premise to Oracle Cloud Infrastructure
+- Performing RMAN backup to an on-premise storage device, and then shipping to Oracle Cloud Infrastructure
 
 #### DB System in OCI:
 - The database and backups are encrypted by default.
@@ -142,6 +144,9 @@ Add users in group, define policy to provide group access to the compartment
 #### Business need to use Database Cloud Service (DBCS) instead of Oracle database on a compute instance:
 - To lower license and infrastructure cost
 
+#### Tools to manage Database Cloud Service (DBCS):
+- SQL Developer
+- Oracle Enterprise Manager
 
 #### ATP:
 - You can scale CPU & storage UP & down
@@ -228,6 +233,15 @@ Add users in group, define policy to provide group access to the compartment
 - Both DB systems must be in the same compartment, same VCN, and they must be the same shape.
 - Port 1521 must be open.
 - Data guard implementation for Bare Metal shapes requires two DB Systems, one containing the primary DB, and one containing the standby DB.
+
+#### Deployment architecture to deploy the Platform Service Manager based Database Cloud Service (DBCS) onto OCI:
+- Two node Primary RAC database with a two node RAC Data Guard Standby in Maximum Performance mode
+
+#### Capabilities of the dbaascli utility:
+- Start and open the database instance
+- Switchover and failover in an Oracle Guard configuration
+- Patching the primary database deployment
+
 
 #### Identity providers your administrator federate with Oracle Cloud Infrastructure:
 - Oracle Identity Cloud Service.
