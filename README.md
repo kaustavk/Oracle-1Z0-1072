@@ -17,10 +17,10 @@
 
 
 #### Language are Terraform and Terraform providers written:
-Go
+- Go
 
 #### Provide users access to an existing compartment:
-Add users in group, define policy to provide group access to the compartment
+- Add users in group, define policy to provide group access to the compartment
 
 #### Scale out the application, stretching from on-premises to the cloud by using a common API:
 - Oracle Cloud Infrastructure
@@ -270,3 +270,34 @@ Add users in group, define policy to provide group access to the compartment
 
 #### Storage service is used on OCI for a Data Transfer Service job:
 - An Object Bucket
+
+
+------
+
+**1Z0-1085:**
+https://www.udemy.com/course/1z0-1085-20-oraclecloudinfrastructurefoundationsassociate/?couponCode=ORACLE
+
+**1Z0-1067:**
+https://www.udemy.com/course/oracle-cloud-infrastructure-cloud-operations-associate/?couponCode=ORACLE
+
+**1Z0-1072:**
+https://www.udemy.com/course/1z0-1072-oracle-cloud-infra-architect-associate/?couponCode=ORACLE
+
+**1Z0-1084:**
+https://www.udemy.com/course/oracle-cloud-infra-developer-2020-associate-practice-test/?couponCode=ORACLE
+
+**1Z0-931:**
+https://www.udemy.com/course/oracle-autonomous-database-cloud-specialist-1z0-931-practice-test/?couponCode=ORACLE
+
+**1Z0-997:**
+https://www.udemy.com/course/1z0-997-oracle-cloud-infrastructure-architect-professional-k/?couponCode=ORACLE
+
+
+
+**Note:** For Active Coupon please contact us through below mail id 
+
+------
+
+**Contact Us:**
+
+[digitechcloud20@gmail.com]()
