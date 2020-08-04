@@ -13,7 +13,7 @@
 
 
 #### Does NOT set a variable in Terraform:
-- Setting the environment variable using a TF_VAR_prediction in front of the variable name.
+- Setting the variable as key value pairs in a file in a subdirectory named tfvar
 
 
 #### Language are Terraform and Terraform providers written:
