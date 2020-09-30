@@ -274,22 +274,24 @@
 
 ------
 
-**1Z0-1085-20:**
-https://www.udemy.com/course/1z0-1085-20-oraclecloudinfrastructurefoundationsassociate/?couponCode=ORACLE
+#### Our Premium Practice Tests  Enrolment Link
 
-**1Z0-1067:**
-https://www.udemy.com/course/oracle-cloud-infrastructure-cloud-operations-associate/?couponCode=ORACLE
+------
+
+**1Z0-1085-20:**
+https://www.udemy.com/course/1z0-1085-20-oraclecloudinfrastructurefoundationsassociate/
 
 **1Z0-1072-20:**
-https://www.udemy.com/course/1z0-1072-oracle-cloud-infra-architect-associate/?couponCode=ORACLE
+https://www.udemy.com/course/1z0-1072-oracle-cloud-infra-architect-associate/
 
 **1Z0-1084-20:**
-https://www.udemy.com/course/oracle-cloud-infra-developer-2020-associate-practice-test/?couponCode=ORACLE
-
-**1Z0-931:**
-https://www.udemy.com/course/oracle-autonomous-database-cloud-specialist-1z0-931-practice-test/?couponCode=ORACLE
+https://www.udemy.com/course/oracle-cloud-infra-developer-2020-associate-practice-test/
 
 **1Z0-997-20:**
-https://www.udemy.com/course/1z0-997-oracle-cloud-infrastructure-architect-professional-k/?couponCode=ORACLE
+https://www.udemy.com/course/1z0-997-oracle-cloud-infrastructure-architect-professional-k/
 
+**1Z0-1067:**
+https://www.udemy.com/course/oracle-cloud-infrastructure-cloud-operations-associate/
 
+**1Z0-931:**
+https://www.udemy.com/course/oracle-autonomous-database-cloud-specialist-1z0-931-practice-test/
